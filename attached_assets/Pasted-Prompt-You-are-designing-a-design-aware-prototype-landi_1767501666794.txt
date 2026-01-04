@@ -1,0 +1,208 @@
+Prompt:
+
+You are designing a design-aware prototype landing page for a fintech product called BackerLoop.
+
+This is not a production site, but it must look like a real product, suitable for demoing to:
+
+creators
+
+investors
+
+lawyers
+
+The output should be a single static HTML file with embedded CSS (no JS frameworks, no React).
+
+Product Context
+
+BackerLoop enables revenue-based financing for creators.
+
+Creators raise capital from their audience in exchange for a fixed percentage of future revenue.
+Backers receive allocations automatically as revenue is reported.
+
+This page must clearly communicate:
+
+what the product does
+
+how it works
+
+why it’s trustworthy
+
+without hype or exaggeration
+
+Design Requirements (Very Important)
+
+The design should feel:
+
+calm
+
+serious
+
+intentional
+
+financial / legal friendly
+
+Avoid:
+
+bright colors
+
+gradients
+
+playful visuals
+
+startup hype language
+
+emojis
+
+Use:
+
+neutral color palette (white, light gray, charcoal, muted blue)
+
+modern sans-serif font (Inter, system UI, or similar)
+
+generous whitespace
+
+card-based layout
+
+clear typographic hierarchy
+
+This should look like a credible prototype, not a marketing toy.
+
+Page Structure (Must Follow This Order)
+1. Hero Section
+
+Headline:
+Revenue-based financing for creators and their communities
+
+Subheadline:
+Raise capital from fans without giving up equity. Backers receive a fixed share of future revenue, allocated automatically.
+
+Primary CTA button:
+View Live Demo
+
+Secondary link:
+“How it works”
+
+2. Problem Section
+
+Heading:
+Creators need capital. Fans want to support.
+
+Explain briefly:
+
+creators need upfront capital
+
+fans want more than donations
+
+existing options are limited
+
+Include a short bullet list:
+
+Equity is complex and illiquid
+
+Donations have no upside
+
+Loans add fixed repayment pressure
+
+3. Solution Section
+
+Heading:
+BackerLoop bridges that gap.
+
+Explain:
+
+creators define a revenue share
+
+fans purchase participation units
+
+revenue is allocated automatically
+
+Use short, readable paragraphs.
+
+4. How It Works (Step-Based)
+
+Four clearly numbered steps:
+
+Create a financing round
+
+Fans back the creator
+
+Revenue is reported
+
+Allocation happens automatically
+
+Each step should be visually separated (cards or vertical layout).
+
+5. Why It’s Different (Trust Section)
+
+Use a 2×2 or 1×4 card layout with:
+
+No custody of funds
+
+Deterministic allocation logic
+
+Transparent revenue ledger
+
+Aligned incentives
+
+This section is critical for legal credibility.
+
+6. Who It’s For
+
+Three cards:
+
+Creators
+
+Backers
+
+Advisors & Legal
+
+Each with 1–2 sentences of calm, professional copy.
+
+7. Live Demo CTA
+
+Reinforce credibility:
+
+“See the mechanics in action”
+
+Button: View Live Demo
+
+8. Disclaimer Footer
+
+This copy must be included verbatim:
+
+BackerLoop is a demonstration platform illustrating revenue allocation mechanics.
+No funds are held, transferred, or custodied by BackerLoop.
+
+Footer should be visually subtle.
+
+Output Requirements
+
+Output only HTML + CSS
+
+No placeholder lorem ipsum
+
+No external JS libraries
+
+No animations
+
+No signup forms
+
+No email capture
+
+No auth
+
+This is a storytelling surface, not a conversion funnel.
+
+Tone Summary (Do Not Ignore)
+
+This page should feel like:
+
+“early but serious”
+
+“unfinished but thoughtful”
+
+“safe to show a lawyer”
+
+“real enough for creators to react to”
+
+Generate the full static HTML file now.
